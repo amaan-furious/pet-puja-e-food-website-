@@ -38,4 +38,4 @@ Database: MongoDB (MongoDB Atlas)
 🚀 Deployment
 User Panel: [Live Link](https://pet-puja-omega.vercel.app/)
 
-Admin Panel: [Live Link](https://pet-puja-7iq2.vercel.app/list)
+Admin Panel: [Live Link](https://pet-puja-7iq2.vercel.app/)
